@@ -19,22 +19,18 @@
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 이력
 
-- Bulleted
-- List
+2017.12 -2020.12 이대학보 
 
-1. Numbered
-2. List
+2021.02 - 2021.08 JTBC 인턴
+
+2021.05 - 2021.09 KBS AD
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
