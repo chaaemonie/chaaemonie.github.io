@@ -8,6 +8,16 @@
 
 이화여자대학교 디자인학부
 
+### 인스타그램
+
+@_chaaemonie
+
+![IMG_9357 2](https://user-images.githubusercontent.com/90588548/133020981-857835a7-0dda-4ec9-8873-d5bf8c830363.jpg)
+
+![IMG_9358 2](https://user-images.githubusercontent.com/90588548/133020990-2aef191e-8326-459f-8b5b-76703c1bba37.jpg)
+
+
+
 ```markdown
 Syntax highlighted code block
 
