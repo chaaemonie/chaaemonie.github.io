@@ -20,7 +20,7 @@
 
 ```markdown
 
-### 이력
+이력
 
 2017.12 -2020.12 이대학보 
 
@@ -29,8 +29,4 @@
 2021.05 - 2021.09 KBS AD
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
