@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chaaemonie/chaaemonie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+저는 디자인과 미술사를 공부하고 있는 박채원입니다.
 
-### Markdown
+### 소속
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교 디자인학부
 
 ```markdown
 Syntax highlighted code block
