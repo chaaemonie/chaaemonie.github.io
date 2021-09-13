@@ -8,6 +8,7 @@
 
 이화여자대학교 디자인학부
 
+```markdown
 ### 이력
 
 2017.12 -2020.12 이대학보 
@@ -18,7 +19,7 @@
 
 ### 인스타그램
 
-@_chaaemonie
+@_chaaemonie (https://www.instagram.com/_chaaemonie/)
 
 ![IMG_9357 2](https://user-images.githubusercontent.com/90588548/133022484-79931fff-d5ad-4725-85e2-a002e6774353.jpg)
 
